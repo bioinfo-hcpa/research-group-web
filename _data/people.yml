@@ -16,7 +16,6 @@ cristal:
     display_name: "Cristal Villalba"
     webpage: "https:github.com/Kur1sutaru"
     role: grad
-    image:  /img/people/cristal.PNG
     github: "https:github.com/Kur1sutaru"
 
 agnis:
@@ -50,8 +49,8 @@ thay:
     display_name: "Thayne Woycinck Kowalski"
     role: postdoc
 
-grad-f:
-    display_name: "Grad F"
+otavio:
+    display_name: "Otávio von Ameln Lovison"
     role: grad
 
 grad-g:
