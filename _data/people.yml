@@ -15,22 +15,19 @@ prof-c:
 cristal:
     display_name: "Cristal Villalba"
     webpage: "https:github.com/Kur1sutaru"
-    role: staff
-    image: <img src="./_data/euu.PNG>
-    bio: Its me
+    role: grad
     github: "https:github.com/Kur1sutaru"
 
 agnis:
     display_name: "Agnis Grefenhagen"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+    github: nd
+    role: grad
 
 ana:
     display_name: "Ana Mello"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/storm.png
 
 bernardo:
     display_name: "Bernardo Trevizan"
