@@ -14,9 +14,9 @@ prof-c:
 
 cristal:
     display_name: "Cristal Villalba"
-    webpage: "<img src="./_data/euu.PNG>"
+    webpage: "https:github.com/Kur1sutaru"
     role: staff
-    image: /img/people/scott.png
+    image: <img src="./_data/euu.PNG>
     bio: Its me
     github: "https:github.com/Kur1sutaru"
 
